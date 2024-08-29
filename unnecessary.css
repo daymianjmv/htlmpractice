@@ -1,0 +1,28 @@
+  @import url(https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap);
+:root {
+      --bg: #262626;
+  }
+
+  body {
+      background: var(--bg);
+      text-align: center;
+        }
+
+ h2 {
+    color: aliceblue;
+ }
+ h1 {
+    color:antiquewhite;
+ }
+ h6{
+    color:green;
+ }
+ p{
+    color: white;
+ }
+ ol{
+    color:whitesmoke;
+ }
+ li{
+    color:whitesmoke;
+ }

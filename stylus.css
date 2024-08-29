@@ -1,0 +1,41 @@
+  /* --------------------------------------------------------------------
+  
+    Import font here from Google Fonts
+    https://fonts.google.com/
+    
+  ----------------------------------------------------------------------- */
+  @import url(https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap);
+
+  /* --------------------------------------------------------------------
+  
+        Variables for colors and fonts:
+        --> Modify these values to suit your style
+  
+  ---------------------------------------------------------------------- */
+  :root {
+      --bg: #262626;
+  }
+
+  body {
+      background: var(--bg);
+      text-align: center;
+        }
+
+ h2 {
+    color: aliceblue;
+ }
+ h1 {
+    color:antiquewhite;
+ }
+ h6{
+    color:green;
+ }
+ p{
+    color: white;
+ }
+ ol{
+    color:whitesmoke;
+ }
+ li{
+    color:whitesmoke;
+ }

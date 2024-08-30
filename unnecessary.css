@@ -5,7 +5,6 @@
 
   body {
       background: var(--bg);
-      text-align: center;
         }
 
  h2 {
@@ -25,4 +24,8 @@
  }
  li{
     color:whitesmoke;
+ }
+ img{
+   left: 100rem;
+   up: 100rem
  }
